@@ -1,0 +1,12 @@
+{
+  "name": "DroneVault Analytics",
+  "short_name": "DroneVault",
+  "description": "Drone flight log analytics platform",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a06",
+  "theme_color": "#f59e0b",
+  "icons": [
+    { "src": "/favicon.ico", "sizes": "64x64", "type": "image/x-icon" }
+  ]
+}
