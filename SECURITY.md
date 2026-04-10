@@ -11,8 +11,7 @@
 
 **Please do not open a public GitHub issue for security vulnerabilities.**
 
-Report security issues privately by emailing **security@example.com** (replace
-with your real address). Include:
+Report security issues privately by emailing **jrbhortake_b22@et.vjti.ac.im**. Include:
 
 - A description of the vulnerability
 - Steps to reproduce or a proof-of-concept
