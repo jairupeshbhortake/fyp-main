@@ -37,8 +37,8 @@ https://github.com/user-attachments/assets/67050ea7-8372-4a8a-bc7c-7f1da05559a8
 ### Option A — Docker (recommended)
 
 ```bash
-git clone https://github.com/youruser/dronevault-analytics
-cd dronevault-analytics
+git clone [https://github.com/jaibhortake/fyp-main.git]
+cd fyp-main
 cp .env.example .env          # edit SECRET_KEY at minimum
 docker compose up -d
 ```
